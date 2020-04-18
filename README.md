@@ -1,4 +1,4 @@
-**RepositoryDownloader** is a customizable tool for downloading repositories from github by search query.
+**repository-downloader** is a customizable tool for downloading repositories from github by search query.
 
 #### Requirements:
 Python 3.4+

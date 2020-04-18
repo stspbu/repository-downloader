@@ -1,0 +1,6 @@
+{
+  "repo_dir": str,
+  "repo_count": int,
+  "repo_query_string": "language:python&sort=stars&order=desc",
+  "github_token": str
+}
